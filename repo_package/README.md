@@ -163,7 +163,7 @@ A line chart needs width to show a trend's shape. A donut needs almost none — 
 **"Emerald Ledger"** — chosen to read as executive and money-literate rather than generic corporate blue:
 
 <p align="center">
-  <img src="./docs/assets/palette.png" alt="Emerald Ledger color palette" width="900">
+ <img width="1400" height="260" alt="palette" src="https://github.com/user-attachments/assets/01cacd75-30a0-4914-bb67-d8533734d217" />
 </p>
 
 | Color | Hex | Role |
@@ -195,7 +195,7 @@ Each card shows the metric, a **trend delta vs. the prior period** (a colored tr
 **Audience & question:** Leadership / general management — *"How is the business performing right now?"*
 
 <p align="center">
-  <img src="./docs/assets/dashboard-1-wireframe.jpg" alt="Dashboard 1 layout" width="900">
+ <img width="1192" height="673" alt="Screenshot 2026-08-10 110332" src="https://github.com/user-attachments/assets/74b28d42-0acc-4f45-b7e9-82d5e45f6e70" />
 </p>
 
 | KPI | What It Answers |
@@ -222,7 +222,7 @@ Each card shows the metric, a **trend delta vs. the prior period** (a colored tr
 **Audience & question:** FP&A / budget owners — *"Are we on plan, and where exactly did we drift?"*
 
 <p align="center">
-  <img src="./docs/assets/dashboard-2-wireframe.jpg" alt="Dashboard 2 layout" width="900">
+  <img width="1189" height="674" alt="Screenshot 2026-08-10 110306" src="https://github.com/user-attachments/assets/48d98a5f-122b-467f-819d-cbe133a95c75" />
 </p>
 
 **Key vocabulary, explained plainly in the build guide:**
