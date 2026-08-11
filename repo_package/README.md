@@ -312,8 +312,8 @@ A few real decisions worth calling out — the kind of thing that comes up in an
 
 ## Contact
 
-**[Your Name]**
-📧 your.email@example.com · 🔗 [LinkedIn](#) · 💼 [Portfolio](#)
+**[Frank Agba]**
+📧 frankgodwin796@gmail.com · 🔗 [LinkedIn](http://www.linkedin.com/in/frank-agba) · 💼 [Portfolio](https://frankagba.base44.app/)
 
 *Built as part of a self-directed learning series — [Learn Data Analytics with InsightByFrank](#).*
 
